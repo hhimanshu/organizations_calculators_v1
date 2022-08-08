@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "typescript": "4.7.4"
+  },
+  "description": "TypeScript playground exported Sandbox",
+  "name": "organization-calculations-v1-calculators-input",
+  "version": "0.0.56",
+  "keywords": [],
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
